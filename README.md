@@ -75,4 +75,3 @@ You now have:
 3. **Git History** with 10 logical commits.
 4. **A Complete README** that explains your work and reflection.
 
-**You are ready to submit.**
