@@ -64,5 +64,4 @@ This project significantly improved my understanding of backend architecture and
 
 ---
 
-Created as part of the **GPP Backend Development Track**.
 
